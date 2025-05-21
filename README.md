@@ -125,4 +125,4 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_PIN)
 
  
 ## Result :
-Interfacing a push button and interrupt generateion is simulated using proteus.
+Interfacing a push button and interrupt generation is simulated using proteus.
